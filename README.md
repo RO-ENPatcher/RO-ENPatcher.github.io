@@ -1,7 +1,7 @@
 # Ragnarok Origin English Patcher
-# Ragnarok Origin English Patcher
 
-*Architect is a Jekyll theme for GitHub Pages. You can [Click here to Download]([https://github.com/RO-ENPatcher/file/releases/download/roo-en-patcher/ROO.TW.Patcher_1.0.0.beta.apk]), or even [use it today](#usage).*
+
+*Architect is a Jekyll theme for GitHub Pages. You can [Click here to Download](https://github.com/RO-ENPatcher/file/releases/download/roo-en-patcher/ROO.TW.Patcher_1.0.0.beta.apk), or even [use it today](#usage).*
 
 ![Thumbnail of Architect](thumbnail.png)
 
