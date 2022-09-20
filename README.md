@@ -12,19 +12,21 @@ To use the Architect theme:
 
 1. Add the following to your site's `_config.yml`:
 
-    ```yml
-    theme: jekyll-theme-architect
+    ```
+1. Download the App.
+
+2. Run the Patcher.
+
+3. Choose your desired language.
+
+4. Tap the Patch button and wait for it to patch your Ragnarok Origin app.
     ```
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
 
 ## Customizing
 
-### Configuration variables
+### Configuration variable
 
 Architect will respect the following variables, if set in your site's `_config.yml`:
 
