@@ -1,8 +1,7 @@
-# The Architect theme
+# Ragnarok Origin English Patcher
+# Ragnarok Origin English Patcher
 
-[Build Status](https://github.com/pages-themes/architect/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
-
-*Architect is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/architect), or even [use it today](#usage).*
+*Architect is a Jekyll theme for GitHub Pages. You can [Click here to Download]([https://github.com/RO-ENPatcher/file/releases/download/roo-en-patcher/ROO.TW.Patcher_1.0.0.beta.apk]), or even [use it today](#usage).*
 
 ![Thumbnail of Architect](thumbnail.png)
 
