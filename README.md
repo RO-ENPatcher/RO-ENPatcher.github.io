@@ -1,5 +1,5 @@
 
-# The Minimal theme
+# Ragnarok Origin English Patcher
 
 [Build Status](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
