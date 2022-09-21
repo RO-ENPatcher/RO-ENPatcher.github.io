@@ -9,7 +9,7 @@ layout: default
 # Auto Patch
 
 ```
-1. [Download](""). the App.
+[Download]("") the App.
 2. Run the Patcher.
 3. Choose your desired language.
 4. Tap the Patch button and wait for it to patch your Ragnarok Origin app.
