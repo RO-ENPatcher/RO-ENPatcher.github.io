@@ -20,7 +20,7 @@ layout: default
 ## Manual Patch
 
 ```
-1. [Download]("") the files needed for manual patch.
+1. Download the files needed for manual patch.
 (download link provided below)
 2. Go to your Phone storage.
 3. Go to "Android" folder.
