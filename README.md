@@ -1,3 +1,5 @@
+Ragnarok Origin Auto Patcher
+
 ### Interface
 
 ![Phone](https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/assets/images/phone.png)
@@ -9,7 +11,7 @@
 
 # Auto Patch
 
-1. [Download]("") the App.
+1. [Download]("https://github.com/RO-ENPatcher/file/releases/download/roo-en-patcher/Ragnarok.Origin.-.EN_1.0.8.apk") the App.
 2. Run the Patcher.
 3. Choose your desired language.
 4. Tap the Patch button and wait for it to patch your Ragnarok Origin app.
@@ -18,7 +20,7 @@
 
 ## Manual Patch
 
-1. [Download]("") the files needed for manual patch.
+1. [Download]("https://github.com/RO-ENPatcher/file/raw/main/HotUpdate.zip") the files needed for manual patch.
 2. Go to your Phone storage.
 3. Go to "Android" folder.
 4. Go to "data" folder.
