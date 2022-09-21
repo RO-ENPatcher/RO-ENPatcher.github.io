@@ -9,7 +9,7 @@
 
 **Please make sure that you update your Ragnarok Origin app first before doing this.**
 
-[Link to another page](./another-page.html).
+
 
 # Auto Patch
 
