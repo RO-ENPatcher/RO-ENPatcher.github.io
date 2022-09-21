@@ -2,6 +2,11 @@
 layout: default
 ---
 
+### Interface
+
+![Phone](https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/assets/images/phone.png)
+
+
 **Please make sure that you update your Ragnarok Origin app first before doing this.**
 
 [Link to another page](./another-page.html).
@@ -21,7 +26,6 @@ layout: default
 
 ```
 1. Download the files needed for manual patch.
-(download link provided below)
 2. Go to your Phone storage.
 3. Go to "Android" folder.
 4. Go to "data" folder.
@@ -32,12 +36,4 @@ layout: default
 ```
 
 **Start the game and Enjoy!**
-
-
-
-
-
-### Interface
-
-![Phone](https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/assets/images/phone.png)
 
