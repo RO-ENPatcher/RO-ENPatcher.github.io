@@ -9,7 +9,7 @@ layout: default
 # Auto Patch
 
 ```
-1. [Download](./another-page.html) the App.
+1. [Download]("") the App.
 2. Run the Patcher.
 3. Choose your desired language.
 4. Tap the Patch button and wait for it to patch your Ragnarok Origin app.
@@ -20,7 +20,7 @@ layout: default
 ## Manual Patch
 
 ```
-1. [Download](./another-page.html) the files needed for manual patch.
+1. [Download]("") the files needed for manual patch.
 (download link provided below)
 2. Go to your Phone storage.
 3. Go to "Android" folder.
