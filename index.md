@@ -2,14 +2,12 @@
 layout: default
 ---
 
+**Please make sure that you update your Ragnarok Origin app first before doing this.**
+
+
 ### Interface
 
 ![Phone](https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/assets/images/phone.png)
-
-
-**Please make sure that you update your Ragnarok Origin app first before doing this.**
-
-[Link to another page](./another-page.html).
 
 # Auto Patch
 
