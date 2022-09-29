@@ -3,7 +3,8 @@
   "message": "",
   "link":"",
   "translations":[
-    {"lang":"English","data":"https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/api/data.json"}
+    {"lang":"Korea","data":"https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/api/data.json"},
+    {"lang":"Japan","data":""}
         
         ]
 }
