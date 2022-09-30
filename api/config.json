@@ -3,7 +3,7 @@
   "message": "",
   "link":"",
   "translations":[
-    {"lang":"Korea","data":"890358105.robytes"},
-    {"lang":"Taiwan","data":"3385116963.robytes"}
+    {"lang":"Korea","data":"890358105.robytes","target":"com.gravity.ragnarokorigin.aos"},
+    {"lang":"Taiwan","data":"3385116963.robytes","target":"com.gravity.roo.tw.mycard"}
         ]
 }
