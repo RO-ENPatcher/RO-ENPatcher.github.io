@@ -2,6 +2,8 @@
   "version": 1,
   "message": "",
   "link":"",
+  "manual":"https://github.com/RO-ENPatcher/file/raw/main/HotUpdateTW.zip",
+  "email":"ro.enpatcher2021@gmail.com",
   "translations":[
     {"lang":"Korea","data":"890358105.robytes","target":"com.gravity.ragnarokorigin.aos"},
     {"lang":"Japan","data":"3079019200.robytes","target":"jp.gungho.rao"},
