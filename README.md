@@ -1,5 +1,7 @@
 ## Ragnarok Origin ENPatcher
 
+![Icon](/assets/images/app_icon.png)
+
 #Features
 
 ```
