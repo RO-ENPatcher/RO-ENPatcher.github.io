@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# Features
+
+```
+•Compatible with all ROO(Korea,Japan,Taiwan).
+•Auto Update(Everytime the game updates the patcher will auto translate by clicking patch button).
+•Download Manual Mode (if auto patch is not working, or user doesn't want an auto patch)
+```
+
 **Please make sure that you update your Ragnarok Origin app first before doing this.**
 
 
