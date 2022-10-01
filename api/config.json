@@ -3,7 +3,9 @@
   "message": "Checking database...",
   "link":"",
   "manual":"https://github.com/RO-ENPatcher/file/raw/main/HotUpdateTW.zip",
-  "email":"https://t.me/+DY6bUub25lVlNDY1",
+  "email":"ro.enpatcher2021@gmail.com",
+  "telegram":"https://t.me/+DY6bUub25lVlNDY1",
+  "website":"https://ro-enpatcher.github.io/",
   "translations":[
     {"lang":"Korea","data":"890358105.robytes","target":"com.gravity.ragnarokorigin.aos"},
     {"lang":"Japan","data":"3079019200.robytes","target":"jp.gungho.rao"},
