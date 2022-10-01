@@ -22,7 +22,7 @@ layout: default
 ```
 1. Download the App.
 2. Run the Patcher.
-3. Choose your desired language.
+3. Choose your Ragnarok Origin Game Server.
 4. Tap the Patch button and wait for it to patch your Ragnarok Origin app.
 ```
 
