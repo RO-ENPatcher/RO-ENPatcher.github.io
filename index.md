@@ -6,8 +6,9 @@ layout: default
 
 ```
 •Compatible with all ROO(Korea,Japan,Taiwan).
-•Auto Update(Everytime the game updates the patcher will auto translate by clicking patch button).
-•Download Manual Mode (if auto patch is not working, or user doesn't want an auto patch)
+•Auto Update(Every time the game updates the patcher will auto translate it by clicking patch button).
+•Removed for now[Download Manual Mode (if auto patch is not working, or user doesn't want an auto patch)]
+•Auto Launch Setting(Automatically open/launch Ragnarok Origin after patching).
 ```
 
 **Please make sure that you update your Ragnarok Origin app first before doing this.**
