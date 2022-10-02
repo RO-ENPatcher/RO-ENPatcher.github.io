@@ -13,6 +13,16 @@ layout: default
 •Auto Launch Setting(Automatically open/launch Ragnarok Origin after patching).
 ```
 
+```
+**Fix1:**
+Fixed error on when already patched, the game still repatching.
+
+**Fix2:**
+Fixed taiwan server app not installed.
+```
+
+
+
 **Please make sure that you update your Ragnarok Origin app first before doing this.**
 
 
