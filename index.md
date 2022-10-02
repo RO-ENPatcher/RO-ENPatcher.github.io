@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Note: Please do not reupload the app, creators discretion.
+
 # Features
 
 ```
