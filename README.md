@@ -47,7 +47,7 @@
 
 ### For those who want a manual patch, just send the files at my email address. 
 ```
-First file
+First file needed
 
 Korea:
 890358105.robytes
@@ -58,7 +58,7 @@ Japan:
 Taiwan:
 3385116963.robytes
 
-And the last file
+And the last file needed
 __file__list__
 
 Thank you.
