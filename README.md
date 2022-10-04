@@ -45,3 +45,21 @@
 
 **Start the game and Enjoy!**
 
+###For those who want a manual patch, just send the files at my email address. 
+```
+First file
+
+Korea:
+890358105.robytes
+
+Japan:
+3079019200.robytes
+
+Taiwan:
+3385116963.robytes
+
+And the last file
+__file__list__
+
+Thank you.
+```
