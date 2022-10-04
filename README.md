@@ -1,4 +1,4 @@
-## Ragnarok Origin ENPatcher
+## ROO ENPatcher
 
 ![Icon](/assets/images/app_icon.png)
 
@@ -45,7 +45,7 @@
 
 **Start the game and Enjoy!**
 
-###For those who want a manual patch, just send the files at my email address. 
+### For those who want a manual patch, just send the files at my email address. 
 ```
 First file
 
