@@ -6,21 +6,21 @@ layout: default
 
 # Features
 
-```
+
 •Compatible with all ROO(Korea,Japan,Taiwan).
 •Auto Update(Every time the game updates the patcher will auto translate it by clicking patch button).
 •Removed for now[Download Manual Mode (if auto patch is not working, or user doesn't want an auto patch)]
 •Auto Launch Setting(Automatically open/launch Ragnarok Origin after patching).
-```
+
 
 ### Please make sure that you update your Ragnarok Origin app first before doing this.
 
 
-## Interface
+# Interface
 
 ![Phone](https://github.com/RO-ENPatcher/RO-ENPatcher.github.io/raw/main/assets/images/phone.png)
 
-# Auto Patch
+## Auto Patch
 
 1. Download the App.
 2. Run the Patcher.
@@ -29,7 +29,7 @@ layout: default
 
 ### Start the game and Enjoy!
 
-# Manual Patch
+## Manual Patch
 
 1. Download the files needed for manual patch.
 2. Go to your Phone storage.
