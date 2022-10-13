@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "message": "",
+  "link":"https://rshrt.com/NewROENPatcher",
+  "email":"ro.enpatcher2021@gmail.com",
+  "telegram":"https://t.me/+DY6bUub25lVlNDY1",
+  "website":"https://ro-enpatcher.github.io/",
+  "translations":[
+    {"lang":"Korea","data":"890358105.robytes","target":"com.gravity.ragnarokorigin.aos"},
+    {"lang":"Japan","data":"3079019200.robytes","target":"jp.gungho.rao"},
+    {"lang":"Taiwan","data":"3385116963.robytes","target":"com.gravity.roo.tw.mycard"}
+        ]
+}
