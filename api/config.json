@@ -9,6 +9,7 @@
   "translations":[
     {"lang":"Korea","data":"890358105.robytes","target":"com.gravity.ragnarokorigin.aos"},
     {"lang":"Japan","data":"3079019200.robytes","target":"jp.gungho.rao"},
-    {"lang":"Taiwan","data":"3385116963.robytes","target":"com.gravity.roo.tw.mycard"}
+    {"lang":"Taiwan","data":"3385116963.robytes","target":"com.gravity.roo.tw.mycard"},
+    {"lang":"China","data":"4158412696.robytes","target":"com.jbedejaae"}
         ]
 }
