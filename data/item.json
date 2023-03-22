@@ -1,5 +1,4 @@
-[
-    {
+{
         "Dash": {
             "main": "",
             "first": "",
@@ -14,5 +13,4 @@
             "first_button":"",
             "second_button":""
         }
-    }
-]
+}
