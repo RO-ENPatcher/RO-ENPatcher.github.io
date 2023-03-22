@@ -1,5 +1,7 @@
 {
         "Dash": {
+            "title": "Watch Video",
+            "icon": "https://",
             "main": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqiKrI0T_eAj-oXDsU_JK92IoF8qzzyRkYw&usqp=CAU",
             "first": "https://youtu.be/Yp176lYM5nA",
             "second": "https://youtu.be/Yp176lYM5nA",
@@ -7,6 +9,8 @@
             "second_button":"Subscribe to unlock"
         },
         "Main": {
+            "title": "Watch Video",
+            "icon": "https://",
             "main": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqiKrI0T_eAj-oXDsU_JK92IoF8qzzyRkYw&usqp=CAU",
             "first": "https://youtu.be/Yp176lYM5nA",
             "second": "https://youtu.be/Yp176lYM5nA",
