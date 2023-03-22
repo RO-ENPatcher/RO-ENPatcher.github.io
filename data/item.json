@@ -1,16 +1,16 @@
 {
         "Dash": {
             "main": "",
-            "first": "",
-            "second": "",
-            "first_button":"",
-            "second_button":""
+            "first": "https://youtu.be/Yp176lYM5nA",
+            "second": "https://youtu.be/Yp176lYM5nA",
+            "first_button":"Subscribe",
+            "second_button":"Subscribe to unlock"
         },
         "Main": {
             "main": "",
-            "first": "",
-            "second": "",
-            "first_button":"",
-            "second_button":""
+            "first": "https://youtu.be/Yp176lYM5nA",
+            "second": "https://youtu.be/Yp176lYM5nA",
+            "first_button":"Watch now",
+            "second_button":"Like"
         }
 }
