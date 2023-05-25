@@ -1,26 +1,61 @@
 {
-  "message:"Temporary not available",
-  "enable":true,
-  "translations":[
-    {
-     "lang":"Korea",
-     "data":"890358105.robytes",
-     "target":"com.gravity.ragnarokorigin.aos"
-    },
-    {
-     "lang":"Japan",
-     "data":"3079019200.robytes",
-     "target":"jp.gungho.rao"
-    },
-    {
-     "lang":"Taiwan",
-     "data":"3385116963.robytes",
-     "target":"com.gravity.roo.tw.mycard"
-    },
-    {
-     "lang":"Ragnarok Mobile(Chinese Private Server)",
-     "data":"890358105.robytes",
-     "target":"com.jbedejaae"
-    }
-  ]
+
+    "message": "Temporary not available",
+
+    "enable": true,
+
+    "translations": [
+
+        {
+
+            "lang": "Korea",
+
+            "data": "890358105.robytes",
+
+            "target": "com.gravity.ragnarokorigin.aos"
+
+        },
+
+        {
+
+            "lang": "Japan",
+
+            "data": "3079019200.robytes",
+
+            "target": "jp.gungho.rao"
+
+        },
+
+        {
+
+            "lang": "Taiwan",
+
+            "data": "3385116963.robytes",
+
+            "target": "com.gravity.roo.tw.mycard"
+
+        },
+
+                {
+
+            "lang": "Global",
+
+            "data": "1650493539.robytes",
+
+            "target": "com.gravity.roo.sea"
+
+        },
+
+        {
+
+            "lang": "Ragnarok Mobile(Chinese Private Server)",
+
+            "data": "890358105.robytes",
+
+            "target": "com.jbedejaae"
+
+        }
+
+    ]
+
 }
